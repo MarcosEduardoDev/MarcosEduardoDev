@@ -28,7 +28,7 @@ I learn by building, debugging, and understanding how things work under the hood
 
 ## About
 
-I'm focused on **Java backend development**, using **Spring Boot** to turn concepts into working applications. I care about understanding the reasoning behind the code—not just making it run.
+I'm focused on **Java backend development**, using **Spring Boot** to turn concepts into working applications. I care about understanding the reasoning behind the code, not just making it run.
 
 ## Featured project
 
