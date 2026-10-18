@@ -1,46 +1,72 @@
-<!-- Profile README — MarcosEduardoDev -->
+<!-- Profile README | MarcosEduardoDev -->
 
-<h1 align="left">Marcos Eduardo</h1>
+<div align="center">
 
-<p align="left">
-  <strong>Java Backend Developer in progress</strong><br>
-  Learning by building real projects, understanding the decisions behind the code, and improving one step at a time.
-</p>
+# Marcos Eduardo
 
-<p align="left">
+### Java Backend Developer · Building with Java & Spring Boot
+
+I learn by building, debugging, and understanding how things work under the hood.
+
+<p>
   <a href="https://github.com/MarcosEduardoDev/Velune">
-    <img src="https://img.shields.io/badge/FOCUS-Velune-176B52?style=flat-square" alt="Current focus: Velune">
+    <img src="https://img.shields.io/badge/MAIN_PROJECT-Velune-2F6F4E?style=for-the-badge&logo=github&logoColor=white" alt="Main project: Velune">
   </a>
-  <img src="https://img.shields.io/badge/Java-Backend-222222?style=flat-square&logo=openjdk&logoColor=white" alt="Java Backend">
-  <img src="https://img.shields.io/badge/Spring_Boot-Learning-222222?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/PostgreSQL-Practice-222222?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-222222?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Maven-222222?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven">
+  <img src="https://img.shields.io/badge/JUnit_5-222222?style=flat-square&logo=junit5&logoColor=25A162" alt="JUnit 5">
+</p>
+
+</div>
 
 ---
 
-### What I'm building
+## About
 
-**[Velune — Hotel Management System](https://github.com/MarcosEduardoDev/Velune)**
+I'm focused on **Java backend development**, using **Spring Boot** to turn concepts into working applications. I care about understanding the reasoning behind the code—not just making it run.
 
-A hands-on project where I'm applying backend concepts to a hotel-management domain: guests, rooms, reservations, date-conflict checks, persistence, validation, and error handling.
+## Featured project
 
-I'm using it to get better at designing and building applications—not just collecting tutorials.
+### [Velune — Hotel Management System](https://github.com/MarcosEduardoDev/Velune)
 
-### Current focus
+A work-in-progress project where I practice building a backend for hotel operations.
 
-- Building REST APIs with Java and Spring Boot
-- Working with PostgreSQL and data persistence
-- Keeping responsibilities clear across controller, service, and repository layers
-- Practicing validation, exception handling, and automated tests with JUnit and Mockito
+- REST API for guests, rooms, and reservations
+- PostgreSQL persistence with Spring Data JPA / Hibernate
+- Reservation date-conflict validation
+- DTOs, input validation, and exception handling
+- Layered structure: Controller → Service → Repository
+- Automated tests with JUnit and Mockito
 
-### How I learn
+<sub>The project is actively evolving. Some dashboard and team-management screens still use demonstration data.</sub>
 
-I learn best by building something, finding what breaks, understanding why, and improving the implementation. Velune is a work in progress, and I document that progress through the code.
+## Current toolkit
+
+| Area | Tools |
+|---|---|
+| **Primary** | Java · Spring Boot |
+| **Data** | PostgreSQL · Spring Data JPA · Hibernate |
+| **Backend** | REST APIs · Bean Validation · Maven |
+| **Testing** | JUnit · Mockito |
+| **Also working with** | HTML · CSS · JavaScript |
+
+## What I'm working on
+
+- Strengthening backend fundamentals through Velune
+- Improving API design, persistence, and business-rule validation
+- Writing tests and making the code easier to maintain
 
 ---
 
-<p align="left">
-  <a href="https://github.com/MarcosEduardoDev?tab=repositories">Explore my repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/MarcosEduardoDev/Velune">See Velune</a>
-</p>
+<div align="center">
+
+**Build it. Understand it. Improve it.**
+
+[Repositories](https://github.com/MarcosEduardoDev?tab=repositories) · [Velune project](https://github.com/MarcosEduardoDev/Velune)
+
+</div>
